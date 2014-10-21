@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Quentin Dangles]]></title>
+  <link href="http://quentindangles.github.io/atom.xml" rel="self"/>
+  <link href="http://quentindangles.github.io/"/>
+  <updated>2014-10-21T22:44:59+02:00</updated>
+  <id>http://quentindangles.github.io/</id>
+  <author>
+    <name><![CDATA[Quentin Dangles]]></name>
+    <email><![CDATA[quentin.dangles.osteopathie@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
